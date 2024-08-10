@@ -1,0 +1,21 @@
+{
+  "start_message": "Привіт! Тут ви можете отримати коди від ігор Hamster Fam",
+  "new_start_message": "Привіт! Тут ви можете отримати коди від ігор Hamster Fam. Запустіть mini-app, щоб згенерувати свої коди (кнопка Get Codes внизу, або Відкрити програму в описі бота)",
+  "subscribe_message": "Підпишіться на канали, щоб отримати свої коди",
+  "limit_reached": "Ви вже отримали всі доступні вам коди на сьогодні",
+  "no_codes": "Коди закінчилися. Спробуйте пізніше",
+  "additional_codes": "Отримайте додаткові коди, підписавшись на наші проекти:",
+  "not_subscribed": "Ви не підписані на канали. Будь ласка, підпишіться і спробуйте ще раз",
+  "top_active_members": "Активні учасники чату отримують по 4 коду в день",
+  "get_codes": "Отримати коди",
+  "start_again": "Бот оновився, перезапустіть його за допомогою команди /start",
+  "donate": "В знак подяки за роботу можете задонатіть Toncoin (або монети TON) за наступною адресою:",
+  "main_channel_ad": "TON Игры",
+  "main_channel_link": "https://t.me/+y8hWxZtIyYYyOTgy",
+  "bizon_channel_ad": "Бизон Хиггса",
+  "bizon_channel_link": "https://t.me/+hitirRn1w2wwNjMy",
+  "playground_channel_ad": "Hamster Playground",
+  "playground_channel_link": "https://t.me/+TvLdEsKWUEgwMThi",
+  "chat_ad": "Наш Чат",
+  "chat_link": "https://t.me/+rCmFFrI2wvdkM2My"
+}

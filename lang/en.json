@@ -1,0 +1,20 @@
+{
+  "start_message": "Hey! Here you can get codes from Hamster Fam games",
+  "new_start_message": "Hey! Here you can get codes from Hamster Fam games. Launch the mini-app to generate your codes (Get Codes button below, or Open app in the bot description)",
+  "subscribe_message": "Subscribe to the channel to get your code",
+  "limit_reached": "You have already received all the codes available to you for today",
+  "no_codes": "The codes are over. Try again later",
+  "additional_codes": "You can get extra codes by subscribing to our projects:",
+  "not_subscribed": "You are not subscribed to the channel. Please subscribe and try again",
+  "get_codes": "Get codes",
+  "start_again": "The bot has been updated, restart it using the /start command",
+  "donate": "You can donate Toncoin (or any coins on the TON blockchain) at the following address:",
+  "main_channel_ad": "TON Games",
+  "main_channel_link": "https://t.me/+k0VZbbIvGl83ZmEy",
+  "playground_channel_ad": "Hamster Playground",
+  "playground_channel_link": "https://t.me/+CmDw57xvO_NhMDMy",
+  "bizon_channel_ad": "----------------------------[+1 code]",
+  "bizon_channel_link": "----------------------------",
+  "chat_ad": "Our chat",
+  "chat_link": ""
+}
